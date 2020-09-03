@@ -1,18 +1,14 @@
 ### Hi there 👋
 
-I'm a software engineer who loves to solve real problems through coding.
+I'm a software engineer who loves to solve real problems through coding
 
-<!--
-**danilolmoura/danilolmoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Linkedin](https://www.linkedin.com/in/danilolmoura/) | [Youtube](https://www.youtube.com/channel/UCk0366m_ugrrggySdSO3CQA?view_as=subscriber)
 
-Here are some ideas to get you started:
+- 🔭 Currently working with Python
+- 🌱 Currently learning Go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/danilolmoura/github-readme-stats">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilolmoura&layout=compact"/>
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=danilolmoura&show_icons=true">
