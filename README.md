@@ -10,7 +10,7 @@ I'm a software engineer who loves to solve real problems through coding
 - 📫 How to reach me: danilolmoura@gmail.com
 
 <a href="https://github.com/danilolmoura/github-readme-stats">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilolmoura&layout=compact"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilolmoura&layout=compact"/>
 </a>
 
 
