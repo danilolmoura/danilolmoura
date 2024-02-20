@@ -1,13 +1,19 @@
-### Hi there 👋
+### Hello 👋
 
-I'm a software engineer who loves to solve real problems through coding
+I am a full-stack developer with over 8 years of active experience in software development. My journey includes work in agile teams, where I have developed both monoliths and microservices, REST APIs, integrations with external services, and implemented automated tests. I have worked across various industries including financial services, energy, lawtech, and entertainment.
 
-I'm interested to work with financial services or crypto, but I'm open to checking projects that use technology to solve some real people's problems, or projects that are using it to create/redefine some market.
+#### Skills:
+- **Backend:** Elixir (Phoenix, Liveview), Python (Flask, Django), Java, PHP
+- **Databases:** SQL (PostgreSQL, MySQL, Google BigQuery), Elasticsearch
+- **DevOps:** Docker, Kubernetes, Google Cloud, AWS, Travis CI, Jenkins
+- **Frontend:** Javascript, Angular, HTML, CSS
+- **Mobile:** Flutter, Dart, Google Play Services
+- **Other:** TDD, git, Scrum, regular expressions, Kanban, Google Maps
 
-[Linkedin](https://www.linkedin.com/in/danilolmoura/) | [Youtube](https://www.youtube.com/channel/UCk0366m_ugrrggySdSO3CQA?view_as=subscriber) | [Stack Overflow](https://stackoverflow.com/users/13372219/danilo-moura)
-
-- Elixir Lover 😍
-- I am currently contributing to [mazaryn](https://github.com/mazarynxyz/mazaryn) and [awesome-free-courses](https://github.com/danilolmoura/awesome-free-courses)
+#### Check out my work:
+- [Manda a Loc (My company)](https://play.google.com/store/apps/details?id=com.mandaaloc.user)
+- [LinkedIn](https://www.linkedin.com/in/danilolmoura/)
+- [Stack Overflow](https://stackoverflow.com/users/13372219/danilo-moura)
 
 ### Stats
 <div>
